@@ -1,0 +1,7 @@
+My Learning Goals
+
+1. Improve programming fundamentals.
+2. Build practical projects.
+3. Strengthen problem-solving skills.
+4. Learn professional Git and GitHub workflows.
+5. Prepare for internships and future career opportunities.
